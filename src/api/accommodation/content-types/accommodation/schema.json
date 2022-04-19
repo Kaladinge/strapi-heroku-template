@@ -17,6 +17,44 @@
     },
     "description": {
       "type": "richtext"
+    },
+    "address": {
+      "type": "string"
+    },
+    "area": {
+      "type": "string"
+    },
+    "distance": {
+      "type": "json"
+    },
+    "rating": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "text"
+    },
+    "facility": {
+      "type": "json"
+    },
+    "mainpic": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "subpic": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
     }
   }
 }

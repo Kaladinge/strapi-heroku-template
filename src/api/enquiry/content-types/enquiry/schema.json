@@ -4,7 +4,8 @@
   "info": {
     "singularName": "enquiry",
     "pluralName": "enquiries",
-    "displayName": "enquiries"
+    "displayName": "enquiries",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -17,14 +18,8 @@
     "to": {
       "type": "date"
     },
-    "persons": {
-      "type": "enumeration",
-      "enum": [
-        "One",
-        "Two",
-        "Three",
-        "Four"
-      ]
+    "guests": {
+      "type": "string"
     }
   }
 }

@@ -60,6 +60,9 @@
     },
     "category": {
       "type": "string"
+    },
+    "price": {
+      "type": "integer"
     }
   }
 }

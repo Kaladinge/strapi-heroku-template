@@ -24,9 +24,6 @@
     "area": {
       "type": "string"
     },
-    "distance": {
-      "type": "json"
-    },
     "rating": {
       "type": "string"
     },
@@ -62,6 +59,12 @@
       "type": "string"
     },
     "price": {
+      "type": "integer"
+    },
+    "bryggen": {
+      "type": "integer"
+    },
+    "airport": {
       "type": "integer"
     }
   }

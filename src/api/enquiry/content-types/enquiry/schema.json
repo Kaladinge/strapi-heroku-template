@@ -12,16 +12,16 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "from": {
-      "type": "date"
-    },
-    "to": {
-      "type": "date"
-    },
     "guests": {
       "type": "string"
     },
     "name": {
+      "type": "string"
+    },
+    "from": {
+      "type": "string"
+    },
+    "to": {
       "type": "string"
     }
   }

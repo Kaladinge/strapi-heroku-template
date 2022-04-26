@@ -20,6 +20,9 @@
     },
     "guests": {
       "type": "string"
+    },
+    "name": {
+      "type": "string"
     }
   }
 }

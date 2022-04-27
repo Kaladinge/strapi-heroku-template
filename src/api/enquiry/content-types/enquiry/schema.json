@@ -23,6 +23,9 @@
     },
     "to": {
       "type": "string"
+    },
+    "hotel": {
+      "type": "string"
     }
   }
 }
